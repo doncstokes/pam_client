@@ -5,7 +5,7 @@
 // Usage:
 //   Argument 1 - username
 // Compile Command:
-//   gcc -o pam_client pam_client.c -lpam -lpam_misc
+//   gcc -o pam_client pam_client.c -lpam
 // Notes:
 //   IMPORTANT! IMPORTANT! IMPORTANT!
 //   Executing user must have access to /etc/shadow or failure results.
